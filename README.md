@@ -3,8 +3,11 @@
 
 #### Data Source:
 * Twitter US Airline Sentiment Kaggle Dataset:
-  A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors   were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or   "rude service").
+  A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
 * Dataset shape: 14640 rows, 15 columns
+
+#### Why This Question:
+* Given the growing presence of companies using Twitter as a customer service platform, and as a way to communicate directly with their clientele, this problem is relevant so that these companies can see how people are talking about them and so that they can better their business practices
 
 #### Questions to be Answered:
 * Can we plot this dataset to see how sentiment and airline interact?
